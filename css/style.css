@@ -1,10 +1,10 @@
 /*CSS File */
 
 html {
-	background: url(images/bg_image1.png) no-repeat center center fixed;
-	background-size: cover;
-	height: 100%;
-	/* overflow: hidden; */
+  background: url(images/bg_image1.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  /* overflow: hidden; */
 }
 
 /*body{
@@ -12,25 +12,25 @@ html {
 	} */
 table,
 td {
-	border: 1px solid black;
-	border-collapse: collapse;
-	padding: 10px;
-	background-color: #d1e9de;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  background-color: #d1e9de;
 }
 
 .layout {
-	border: 0px;
-	/*border-collapse: collapse; */
-	padding: 10px;
-	background-color: inherit;
+  border: 0px;
+  /*border-collapse: collapse; */
+  padding: 10px;
+  background-color: inherit;
 }
 
 h1,
 h2,
 h3 {
-	text-align: center;
+  text-align: center;
 }
 
 #advice {
-	display: none;
+  display: none;
 }
